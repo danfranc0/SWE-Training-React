@@ -12,6 +12,6 @@ const Home = ({ posts }) => {
             )}
         </main>
     )
-  }
-  
-  export default Home
+}
+
+export default Home
